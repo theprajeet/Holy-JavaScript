@@ -22,7 +22,7 @@ The DOM allows JavaScript to:
 
 The DOM represents an HTML document as a **tree structure**. Each part of the document is represented as a node, and nodes have relationships such as **parent, child, and sibling**.
 
-<img src="/Assets/DOM.png" alt="DOM.png" width="600" >
+<img src="/Assets/DOM-1.png" alt="DOM.png" width="600" >
 
 Consider:
 
